@@ -16,7 +16,7 @@ public class Statistics implements IStatistics {
 	public void addInfo(int numeroPergunta, String pergunta, String resposta) {
 		Pergunta p = null;
 		boolean naoExiste = true;
-				
+		
 		Iterator<Pergunta>it = perguntas.iterator();
 		while(it.hasNext()) {
 			p = it.next();
