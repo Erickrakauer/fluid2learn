@@ -1,0 +1,7 @@
+"e um mamifero", "sim"
+"vive nas savanas", "sim"
+"tem pelo dourado e marrom", "sim"
+"seus melhores amigos sao um javali e um suricato", "sim"
+"e carnivoro", "sim"
+"esta no topo da cadeia alimentar", "sim"
+"canta hakuna matata", "sim"
