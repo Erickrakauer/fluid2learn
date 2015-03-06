@@ -1,0 +1,7 @@
+"tem quatro patas", "sim"
+"e um mamifero", "sim"
+"tipico da America do Sul", "sim"
+"coloracao do pelo e marrom", "sim"
+"sao rapidos e saltitantes", "sim"
+"sao vegetarianos", "sim"
+"possuem chifres", "sim"
