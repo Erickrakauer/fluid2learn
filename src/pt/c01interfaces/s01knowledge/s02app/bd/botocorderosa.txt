@@ -1,0 +1,5 @@
+"e um mamifero", "sim"
+"habitat natural e o amazonico", "sim"
+"possui nadadeiras", "sim"
+"coloracao rosada", "sim"
+"existe uma lenda do folclore sobre ele", "sim"
