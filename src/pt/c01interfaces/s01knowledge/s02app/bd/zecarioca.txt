@@ -1,0 +1,5 @@
+"e uma ave", "sim"
+"suas penas sao verdes e amarelas", "sim"
+"usa um terno colorido", "sim"
+"e preguicoso", "sim"
+"e malandro", "sim"
