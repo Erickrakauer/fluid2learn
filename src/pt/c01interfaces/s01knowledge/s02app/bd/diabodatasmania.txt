@@ -1,0 +1,5 @@
+"e um mamifero marsupial", "sim"
+"natural da oceania", "sim"
+"e carnivoro", "sim"
+"corre risco de extincao", "sim"
+"inspiriou um personagem de desenho animado", "sim"
