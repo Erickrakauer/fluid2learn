@@ -1,0 +1,5 @@
+"e um tipo de ave", "sim"
+"vive em patopolis", "sim"
+"e extremamente rico", "sim"
+"gosta de nadar", "nao sei"
+"e pao duro", "sim"
